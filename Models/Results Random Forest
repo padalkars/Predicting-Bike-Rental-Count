@@ -1,0 +1,20 @@
+
+n_estimators:- 100
+min_samples_split:-	5
+min_samples_leaf:- 2
+max_depth:- 4
+max_leaf_nodes:- 4
+max_features:- 12
+
+Results obtained on Training Data:-
+RMSE:- 297.2809020065835
+R_Squared:- 0.9656191428033443
+
+RMSLE:- 0.11946347043383655
+
+Results obtained on Testing Data:-
+RMSE:- 912.8322270313632
+R_Squared:- 0.7015635335336581
+
+RMSLE:- 0.33693976134246145
+
